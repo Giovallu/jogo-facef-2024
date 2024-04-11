@@ -26,10 +26,10 @@ Se estiver disponível a opção para download, baixe para melhores experiência
 
 ![Screenshot_4](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/2ea84192-8d62-4522-ad7b-358d4eb20846)
 ![Screenshot_5](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/a34ddda3-28d3-4e03-a4f4-5da324a20157)
-![Screenshot_5](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/1c725bd6-e5bb-49d3-ad91-0d9001a9977d)
+![Screenshot_6](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/e3516592-a9a0-4583-8af9-01c5ea92cfc7)
 
 Link BD: https://fofurinhas-de-algodao-default-rtdb.firebaseio.com/
 
-![Screenshot_5](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/22635843-c38e-42f0-98ed-bea1b78351e6)
+![Screenshot_7](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/6ccc9a85-8c2c-4e59-a97e-3f6636298101)
 
 
