@@ -30,6 +30,7 @@ Se estiver disponível a opção para download, baixe para melhores experiência
 
 Link BD: https://fofurinhas-de-algodao-default-rtdb.firebaseio.com/
 
+![image](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/ba009895-503e-4b3c-afd7-3121749a134e)
 ![Screenshot_7](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/6ccc9a85-8c2c-4e59-a97e-3f6636298101)
 
 
