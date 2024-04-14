@@ -22,6 +22,7 @@ A jogabilidade mescla ação e estratégia, exigindo que os jogadores enfrentem 
 Instruções:
 
 Os jogadores podem mover Maya para cima e para baixo usando as setas (↑ e ↓) do teclado, e atirar pressionando a barra de espaço/space.
+O jogador terá 3 vidas, para enfrentar os pássaros (150 de vida) e os ursinhos (100 de vida), com seus poderes que dão 15 de dano.
 Se estiver disponível a opção para download, baixe para melhores experiências.
 
 ![Screenshot_4](https://github.com/Giovallu/jogo-facef-2024/assets/105935212/2ea84192-8d62-4522-ad7b-358d4eb20846)
