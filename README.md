@@ -5,6 +5,8 @@ Este repositório abriga o código-fonte e os recursos relacionados ao projeto d
 
 Título do Jogo: "Fofurinhas de Algodão"
 
+link do jogo: fofurinhasdealgodao.netlify.app/
+
 Descrição:
 
 Adentre um reino encantado, onde a magia tece sua teia por todos os cantos, e encontre-se diante de uma ameaça sombria. Antigos companheiros das crianças do reino, os adoráveis Fofurinhas de Algodão, foram corrompidos por uma energia maligna, tornando-se zumbis famintos por magia negra. Agora, cabe à jovem e corajosa fada Maya enfrentar essa terrível ameaça.
