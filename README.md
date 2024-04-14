@@ -5,7 +5,7 @@ Este repositório abriga o código-fonte e os recursos relacionados ao projeto d
 
 Título do Jogo: "Fofurinhas de Algodão"
 
-link do jogo: fofurinhasdealgodao.netlify.app/
+link do jogo: https://fofurinhasdealgodao.netlify.app
 
 Descrição:
 
